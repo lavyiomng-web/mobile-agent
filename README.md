@@ -1,39 +1,36 @@
-# Mobile Agent
+ Muneeb AI – Mobile Video Automation Agent
 
-Mobile Agent is an open-source AI agent built specifically for mobile devices that runs entirely on your phone.
+About
 
-## Demo
+Muneeb AI is a personal Android AI assistant designed to automate video production and editing workflows.
 
-[![Mobile Agent demo](https://img.youtube.com/vi/_P_SQ0MW-aU/maxresdefault.jpg)](https://youtu.be/_P_SQ0MW-aU?si=klxA4b7RU3Y2j5iy)
+Main Goal
 
-## Features
+Control supported Android applications through authorized automation tools and create professional videos with minimal user interaction.
 
-- Generate/Edit videos without any video generate model.
-- On-device models that can run completely offline
-- Runs completely on-device
-- No external server required
-- MCP support
-- Skills system
-- Persistent memory
-- Multi-modal support
-- Direct access to phone's internal storage
-- Android permission-based access
-- Community plugins
-- Voice to text support.
+Features
 
-## Installation
+- Pinterest content research
+- ElevenLabs AI voice generation
+- CapCut video editing
+- Automatic subtitles and transitions
+- Voice changer workflow
+- YouTube Shorts and TikTok production
+- Export final videos to mobile storage
+- Roman Urdu and English commands
 
-The application is distributed through GitHub Releases.
+Video Settings
 
-1. Download the latest APK from the Releases page.
-2. Install the APK on your Android device.
-3. Grant the required permissions.
-4. Start using Mobile Agent.
+- Resolution: 1080x1920
+- Format: MP4
+- Aspect Ratio: 9:16
+- Quality: High
+- Default Duration: 30–60 seconds
 
-## Contributing
+Example Command
 
-Contributions are welcome. Feel free to open an issue for bug reports, feature requests, or submit a pull request if you'd like to contribute.
+Create a 30-second cinematic motivational video with AI voice, subtitles, background music and professional editing.
 
-## License
+Safety
 
-This project is licensed under the MIT License.
+Use only authorized apps and permissions. Request confirmation before uploading or publishing videos. Report unavailable features instead of claiming successful execution.
